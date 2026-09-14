@@ -46,6 +46,8 @@ Votre ou vos rôle(s) dans le projet : Développeur Front End
 •	Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...) : GitHub - MrPoutineQc/veyloria: Veyloria : Une planète énigmatique et secrète, au-delà de l'imaginati… 
 https://i.postimg.cc/kX8jvVHK/image.png
 
+https://cmontmorency365-my.sharepoint.com/:i:/g/personal/2497981_cmontmorency_qc_ca/IQBztR77TGDkQ79cDFidIEtXAegkGGb0aPj5XGegQxrByc4?e=2IGnsv
+
 
 # Projet 2
 
