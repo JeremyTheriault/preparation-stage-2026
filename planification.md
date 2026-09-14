@@ -120,3 +120,13 @@ Votre ou vos rôle(s) dans le projet : Création du code
 •	Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases) :  On a créé la physique du jeu grâce au langage de programmation de Godot. Lorsque la majorité du jeu était avancé, nous avons rajouter les effets sonores pour une meilleur immersion.
 
 •	Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...) : mrpoutineqc.github.io/godot-tp4-zwarren-jtheriault/
+
+# Processus de création
+
+1.Définir le lore et l'angle du site :Rédiger la fiche descriptive de Veyloria : climat, biomes, faune, flore, ressources et civilisation.Choisir le point de vue éditorial : guide d'exploration scientifique, archive militaire ou brochure touristique spatiale.Déterminer les sections clés à inclure (Accueil, Biomes, Espèces, Histoire/Chronologie).
+
+2.Concevoir l'identité visuelle et les maquettes (UI/UX) :Créer un moodboard de références graphiques, sélectionner une palette de couleurs (tons cosmiques, néons, minéraux) et des typographies adaptées à la science-fiction.Dessiner les wireframes (schémas fonctionnels) de la disposition des pages sur ordinateur et mobile.Réaliser la maquette finale sur un outil de design (Figma ou Adobe XD) avec l'aspect visuel définitif des boutons, cartes et menus.
+
+3.Créer et préparer les médias visuels :Produire ou exporter les visuels 2D (illustrations des créatures/paysages, cartes géographiques, icônes HUD).Créer le globe 3D ou les rendus de la planète avec ses textures de surface, nuages et anneaux.Optimiser et compresser tous les fichiers médias (formats légers comme WebP, SVG ou GLTF pour la 3D) pour assurer un chargement rapide.
+
+4.Développer et intégrer le site :Monter la structure du site et coder les pages en HTML/CSS/JS (ou intégrer sur un CMS / constructeur de page).Mettre en place le design réactif (responsive) pour adapter l'affichage aux écrans de téléphones, tablettes et ordinateurs.Ajouter les interactions : animations au défilement (scroll/parallax), points d'intérêt cliquables sur la carte ou visualiseur 3D interactif.
