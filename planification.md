@@ -96,3 +96,27 @@ Votre ou vos rôle(s) dans le projet : Animateur et designer
 
 •	Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...) : https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2497981_cmontmorency_qc_ca/IQBVJE_zn26lRoh8G6hgxKWjAeGM5eF_2Fn_u0wiemC8ZHs?e=cemjRR
 
+
+Projet 4
+
+•	Nom de votre projet: AGAIN
+
+Mention académique ou personnel:  Académique
+
+Individuel ou en équipe: Équipe
+
+Nom de vos coéquipiers: Zackary Warren
+
+Votre ou vos rôle(s) dans le projet : Création du code 
+
+•	Logiciels ou techniques utilisées : Godot
+
+•	Catégorie du projet : Jeu vidéo
+
+•	Description courte du projet (Résumé en 1 phrase) : Un jeu dans lequel on recommence depuis le début si on meurt.
+
+•	Description du projet (2 phrases) : À la base le jeu que nous avons créé était censé être plus dur mais pour le cadre du cours nous avons rajouter quelque ligne de code pour faciliter la présentation du projet. Donc notre jeu est de type Rage Game par notre volonté de faire recommencer le joueur plusieurs fois jusqu’à sa connaissance parfaite du niveau.
+
+•	Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases) :  On a créé la physique du jeu grâce au langage de programmation de Godot. Lorsque la majorité du jeu était avancé, nous avons rajouter les effets sonores pour une meilleur immersion.
+
+•	Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...) : mrpoutineqc.github.io/godot-tp4-zwarren-jtheriault/
