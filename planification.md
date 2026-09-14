@@ -69,7 +69,7 @@ Votre ou vos rôle(s) dans le projet : Monteur Sonore et Directeur Audio
 
 •	Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases) :  Nous avons dû filmer, enregistré les sons nécessaires. Lorsque tous les séquences ont tous été enregistré, on a passé à la partie montage vidéo et audio.
 
-•	Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...) : 
+•	Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...) : https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2497981_cmontmorency_qc_ca/IQCOlh-Fu6q2QJKM_-cOyUwlATv3_HvPR7OSjQlYv_d7Oys?e=C2Q3Xw
 
 
 Projet 3
@@ -94,5 +94,5 @@ Votre ou vos rôle(s) dans le projet : Animateur et designer
 
 •	Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases) : On a créé le vectoriel de chaque élément pour pouvoirs les animés par la suite. Lorsque le montage était fait, nous devions rajouter la voix et les sons.
 
-•	Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...) : 
+•	Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...) : https://cmontmorency365-my.sharepoint.com/:v:/g/personal/2497981_cmontmorency_qc_ca/IQBVJE_zn26lRoh8G6hgxKWjAeGM5eF_2Fn_u0wiemC8ZHs?e=cemjRR
 
