@@ -43,8 +43,8 @@ Votre ou vos rôle(s) dans le projet : Développeur Front End
 
 •	Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases) : Je suis actuellement en train de restructurer le HTML à l’aide de la librairie Tailwind que j’apprends en parelle. J’ai commencé aussi à faire le style avec SCSS de la page à propos.
 
-•	Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...) : GitHub - MrPoutineQc/veyloria: Veyloria : Une planète énigmatique et secrète, au-delà de l'imaginati… 
-https://i.postimg.cc/kX8jvVHK/image.png
+•	Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...) : GitHub - MrPoutineQc/veyloria: Veyloria : Une planète énigmatique et secrète, au-delà de l'imagination
+mrpoutineqc.github.io/veyloria/
 
 https://cmontmorency365-my.sharepoint.com/:i:/g/personal/2497981_cmontmorency_qc_ca/IQBztR77TGDkQ79cDFidIEtXAegkGGb0aPj5XGegQxrByc4?e=2IGnsv
 
