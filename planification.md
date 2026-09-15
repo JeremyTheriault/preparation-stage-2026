@@ -15,9 +15,9 @@ Logiciels
 
 Langage de programmation
 •	Html 
-•	css
+•	CSS
 •	Javascript
-•	cms
+•	CMS
 
 Objectif de carrière
 Je souhaite obtenir un poste d'intégrateur web dans le domaine front-end, où je pourrai utiliser mes compétences en traduction visuelle et en responsive.
