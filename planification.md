@@ -92,7 +92,7 @@ Votre ou vos rôle(s) dans le projet : Animateur et designer
 
 •	Description courte du projet (Résumé en 1 phrase) : Expliquer ce qu’est un trou noir en 1 minute.
 
-•	Description du projet (2 phrases) : Dans le cadre de notre cours d’animation 2d, on devait faire une vidéo explicative d’un sujet. Nous étions tous les trois fascinés par l’espace donc le choix d’expliquer qu’es ce un trou noir est venu naturellement.
+•	Description du projet (2 phrases) : Dans le cadre de notre cours d’animation 2d, on devait faire une vidéo explicative d’un sujet. Nous étions tous les trois fascinés par l’espace donc le choix d’expliquer qu’est-ce un trou noir est venu naturellement.
 
 •	Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases) : On a créé le vectoriel de chaque élément pour pouvoirs les animés par la suite. Lorsque le montage était fait, nous devions rajouter la voix et les sons.
 
